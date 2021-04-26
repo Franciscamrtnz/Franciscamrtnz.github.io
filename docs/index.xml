@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID 2021 on Francisca Martínez - MID 2021</title>
+    <title>POST 5 on Francisca Martínez - MID 2021</title>
     <link>https://franciscamrtnz.github.io/docs/</link>
-    <description>Recent content in Taller Integrado MID 2021 on Francisca Martínez - MID 2021</description>
+    <description>Recent content in POST 5 on Francisca Martínez - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://franciscamrtnz.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://franciscamrtnz.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>POST 0</title>
       <link>https://franciscamrtnz.github.io/docs/post-0/</link>
@@ -31,7 +31,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://franciscamrtnz.github.io/docs/post-2/</guid>
-      <description>Sobre mí y mis proyectos más importantes</description>
+      <description>Experimentación analoga/digital. Aproximación a Keyshot</description>
     </item>
     
     <item>
@@ -40,7 +40,43 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://franciscamrtnz.github.io/docs/post-3/</guid>
-      <description>Composiciones de formas, luces y sombras formadas a través de papel y luz.</description>
+      <description>Volumenes de Luz</description>
+    </item>
+    
+    <item>
+      <title>POST 4</title>
+      <link>https://franciscamrtnz.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-4/</guid>
+      <description>Volumenes de Luz, compilación final</description>
+    </item>
+    
+    <item>
+      <title>POST 5</title>
+      <link>https://franciscamrtnz.github.io/docs/post-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-5/</guid>
+      <description>Tutoriales Fusion</description>
+    </item>
+    
+    <item>
+      <title>POST 7</title>
+      <link>https://franciscamrtnz.github.io/docs/post-7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-7/</guid>
+      <description>Piping</description>
+    </item>
+    
+    <item>
+      <title>POST 8</title>
+      <link>https://franciscamrtnz.github.io/docs/post-8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-8/</guid>
+      <description>Electromovilidad</description>
     </item>
     
     <item>
