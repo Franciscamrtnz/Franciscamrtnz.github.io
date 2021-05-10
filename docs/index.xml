@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>POST 5 on Francisca Martínez - MID 2021</title>
+    <title>POST 10 on Francisca Martínez - MID 2021</title>
     <link>https://franciscamrtnz.github.io/docs/</link>
-    <description>Recent content in POST 5 on Francisca Martínez - MID 2021</description>
+    <description>Recent content in POST 10 on Francisca Martínez - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://franciscamrtnz.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
@@ -77,6 +77,33 @@
       
       <guid>https://franciscamrtnz.github.io/docs/post-8/</guid>
       <description>Electromovilidad</description>
+    </item>
+    
+    <item>
+      <title>POST 9</title>
+      <link>https://franciscamrtnz.github.io/docs/post-9/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-9/</guid>
+      <description>Corrección propuesta</description>
+    </item>
+    
+    <item>
+      <title>POST 10</title>
+      <link>https://franciscamrtnz.github.io/docs/post-10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-10/</guid>
+      <description>Modelado por superficies</description>
+    </item>
+    
+    <item>
+      <title>POST 11</title>
+      <link>https://franciscamrtnz.github.io/docs/post-11/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://franciscamrtnz.github.io/docs/post-11/</guid>
+      <description>Avance Lunes 10</description>
     </item>
     
     <item>
