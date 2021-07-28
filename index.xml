@@ -1,144 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisca Martínez Ruiz on Francisca Martínez - MID 2021</title>
-    <link>https://franciscamrtnz.github.io/</link>
-    <description>Recent content in Francisca Martínez Ruiz on Francisca Martínez - MID 2021</description>
+    <title>Taller Espacio y Ciudad on Francisca Martinez</title>
+    <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Francisca Martinez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://franciscamrtnz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://franciscamrtnz.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>POST 0</title>
-      <link>https://franciscamrtnz.github.io/docs/post-0/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>1. Propuesta temática</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/modelos/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-0/</guid>
-      <description>Sobre mí y mis proyectos más importantes</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/modelos/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>POST 1</title>
-      <link>https://franciscamrtnz.github.io/docs/post-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>2. Exploración Análoga</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/analoga/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-1/</guid>
-      <description>Composiciones de formas, luces y sombras formadas a través de papel y luz.</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/analoga/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>POST 2</title>
-      <link>https://franciscamrtnz.github.io/docs/post-2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>3. Valor endógeno</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/valor-endogeno/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-2/</guid>
-      <description>Experimentación analoga/digital. Aproximación a Keyshot</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/valor-endogeno/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>POST 3</title>
-      <link>https://franciscamrtnz.github.io/docs/post-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>4. Actores y Sistemas</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/actores/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-3/</guid>
-      <description>Volumenes de Luz</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/actores/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>POST 4</title>
-      <link>https://franciscamrtnz.github.io/docs/post-4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>5. Modelos y Prouestas</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/post-0/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-4/</guid>
-      <description>Volumenes de Luz, compilación final</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/post-0/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>POST 5</title>
-      <link>https://franciscamrtnz.github.io/docs/post-5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>6. Midterm</title>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/midterm/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/post-5/</guid>
-      <description>Tutoriales Fusion</description>
-    </item>
-    
-    <item>
-      <title>POST 7</title>
-      <link>https://franciscamrtnz.github.io/docs/post-7/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/post-7/</guid>
-      <description>Piping</description>
-    </item>
-    
-    <item>
-      <title>POST 8</title>
-      <link>https://franciscamrtnz.github.io/docs/post-8/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/post-8/</guid>
-      <description>Electromovilidad</description>
-    </item>
-    
-    <item>
-      <title>POST 9</title>
-      <link>https://franciscamrtnz.github.io/docs/post-9/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/post-9/</guid>
-      <description>Corrección propuesta</description>
-    </item>
-    
-    <item>
-      <title>POST 10</title>
-      <link>https://franciscamrtnz.github.io/docs/post-10/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/post-10/</guid>
-      <description>Modelado por superficies</description>
-    </item>
-    
-    <item>
-      <title>POST 11</title>
-      <link>https://franciscamrtnz.github.io/docs/post-11/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/post-11/</guid>
-      <description>Avance Lunes 10</description>
-    </item>
-    
-    <item>
-      <title>TU PUNTO</title>
-      <link>https://franciscamrtnz.github.io/docs/tupunto/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/tupunto/</guid>
-      <description>EXAMEN FINAL</description>
-    </item>
-    
-    <item>
-      <title>SOFTWARE CREATIVO</title>
-      <link>https://franciscamrtnz.github.io/docs/software-creativo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://franciscamrtnz.github.io/docs/software-creativo/</guid>
-      <description>Tutoriales Fusion</description>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/midterm/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://franciscamrtnz.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/ejemplo/</guid>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://franciscamrtnz.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://franciscamrtnz.github.io/docs/markdown/</guid>
+      <guid>https://franciscamrtnz.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
